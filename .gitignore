@@ -98,13 +98,11 @@ ipython_config.py
 venv/
 ENV/
 env/
-.env
 .venv
 pip-selfcheck.json
 
 # IDEs
 .idea/
-.vscode/
 *.swp
 *.swo
 
